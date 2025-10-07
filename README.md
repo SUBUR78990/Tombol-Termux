@@ -19,4 +19,4 @@ cd Tombol-Termux
 python2 terkey.py
 
 ```
-Manisss..
+# Manisss..
