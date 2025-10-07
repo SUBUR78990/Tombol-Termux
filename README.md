@@ -16,4 +16,8 @@ cd Tombol-Termux
 python2 terkey-v2.py
 
 ```
-# Manisss..
+# Upgrade 2025
+
+~
+Trimakasih kepada Semua Pengembang 
+~
