@@ -4,7 +4,7 @@
 ![Screenshot_20231214-203145](https://github.com/user-attachments/assets/84591c26-8448-4f70-be1e-081475d13246)
 
 
-# Terkey
+# Salin Printah ini dan Tempel di aplikasi Termux kalian
 
 ```
 
