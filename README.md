@@ -6,7 +6,7 @@
 
 ```
 
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install python2
 pkg install git
 git clone https://github.com/SUBUR78990/Tombol-Termux.git
