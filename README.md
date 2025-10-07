@@ -12,7 +12,9 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/SUBUR78990/Tombol-Home-Termux-.git
+git clone https://github.com/SUBUR78990/Tombol-Termux.git
+
+cd Tombol-Termux
 
 python2 terkey.py
 
